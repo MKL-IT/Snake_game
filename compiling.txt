@@ -1,0 +1,9 @@
+
+Open terminal (Ctrl+Alt+T) and run the commands:
+
+	$ make
+
+	$ ./game.exe
+
+
+Enjoy the game !
